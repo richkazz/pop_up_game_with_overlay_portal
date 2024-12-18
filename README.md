@@ -1,4 +1,3 @@
-```markdown
 # CustomOverlayPortal Demo
 
 This Flutter project demonstrates the use of custom overlay portals to create interactive and animated overlays in a mobile application. The overlays can be positioned at various locations on the screen and are controlled using custom controllers.
@@ -20,7 +19,7 @@ This Flutter project demonstrates the use of custom overlay portals to create in
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/custom_overlay_portal_demo.git
+   git clone https://github.com/richkazz/pop_up_game_with_overlay_portal.git
    cd custom_overlay_portal_demo
    ```
 
@@ -62,6 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please contact [your email](mailto:youremail@example.com).
-
-```
+For any questions or feedback, please contact [edawarekaro@gmail.com](mailto:edawarekaro@gmail.com).
